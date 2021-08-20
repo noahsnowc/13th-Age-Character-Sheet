@@ -94,39 +94,60 @@
          "INTELLIGENCE"
       ]
    },
-   "CATFOLK":{
-      "label":"Catfolk",
+   "ALLEYKIN":{
+      "label":"Alleykin",
       "bonus":[
          "DEXTERITY",
+         "WISDOM"
+      ]
+   },
+   "ARCANITE":{
+      "label":"Arcanite",
+      "bonus":[
+         "INTELLIGENCE",
          "CHARISMA"
       ]
    },
-   "HAGBORN":{
-      "label":"Hagborn",
+   "BEASTBLOODED":{
+      "label":"Beastblooded",
+      "bonus":[
+         "CONSTITUTION",
+         "DEXTERITY"
+      ]
+   },
+   "LIZARDMAN":{
+      "label":"Lizardman",
+      "bonus":[
+         "CONSTITUTION",
+         "DEXTERITY"
+      ]
+   },
+   "SPACE_CORPS_OFFICER":{
+      "label":"Space Corps Officer",
+      "bonus":[
+         "INTELLIGENCE",
+         "DEXTERITY"
+      ]
+   },
+   "SPIRITBORN":{
+      "label":"Spiritborn",
       "bonus":[
          "WISDOM",
          "CHARISMA"
       ]
    },
-   "LIZARDFOLK":{
-      "label":"Lizardfolk",
-      "bonus":[
-         "STRENGTH",
-         "CONSTITUTION"
-      ]
-   },
-   "MERFOLK":{
-      "label":"Merfolk",
+   "TWYGZOG":{
+      "label":"Twygzog",
       "bonus":[
          "CONSTITUTION",
-         "CHARISMA"
+         "STRENGTH"
       ]
    },
-   "SAMSARAN":{
-      "label":"Samsaran",
+   "UNHOLY_ONE":{
+      "label":"Unholy One",
       "bonus":[
-         "INTELLIGENCE",
-         "WISDOM"
+         "STRENGTH",
+         "CHARISMA"
       ]
    }
 }
